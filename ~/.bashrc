@@ -1,0 +1,3 @@
+export SENDMAIL_PASSWORD=123456788
+export SENDMAIL_USERNAME=billodiallonet.com
+export MAIL_HOST=localhost:3000
